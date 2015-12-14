@@ -1,5 +1,6 @@
 # Battleship
-Battleship for Cpts 121 at Wsu
+Battleship for Cpts 121 at Washington State University
+Semester term: Fall 2015.
 
 Made by Kenneth Eversole
 
@@ -9,7 +10,7 @@ Purpose of project:
 Create a game of Battleship that is bettween a human and computer.
 
 Added features:
-1. Mouse control 
+1. Keyboard control 
 2. Added a UI that further exemplifies the game of Battleship
 
 Features that need to be worked on:

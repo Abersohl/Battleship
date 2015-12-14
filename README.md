@@ -10,11 +10,11 @@ Purpose of project:
 Create a game of Battleship that is bettween a human and computer.
 
 Added features:
-1. Keyboard control 
-2. Added a UI that further exemplifies the game of Battleship
+- Keyboard control 
+- Added a UI that further exemplifies the game of Battleship
 
 Features that need to be worked on:
-1. Ai
+- Ai
 
 
 

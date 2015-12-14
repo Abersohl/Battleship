@@ -1,5 +1,5 @@
 # Battleship
-Battleship for Cpts 121 at Washington State University
+**Battleship for Cpts 121 at Washington State University:**
 Semester term: Fall 2015.
 
 Made by Kenneth Eversole

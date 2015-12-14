@@ -2,7 +2,7 @@
 **Battleship for Cpts 121 at Washington State University:**
 Semester term: Fall 2015.
 
-Made by Kenneth Eversole
+*Made by Kenneth Eversole*
 
 
 
@@ -18,7 +18,7 @@ Features that need to be worked on:
 
 
 
-(AI explaination) 
+**(AI explaination)** 
 
 I am so sorry if this is hard to understand. I tried to create an Ai that would mathmatically attack the human player's ships.
 It would do this by adding up the probabilities of all of the ships. Then it would decrement the total probability 
@@ -29,11 +29,11 @@ breaks. What is suppose to happen is that it keeps preforming this step till the
 multipleships in this process, what currently happens is that it doesnt add the Dtargets properly and breaks eventually. 
 
 
-(Ship probabilites)
+**(Ship probabilites)**
 This is just how many possible ways a ship can be placed into a spot.
 
 
-(Story about this project)
+**(Story about this project)**
 This project is my first big Computer Science project in which I truly became invested in. I spent over 200+ hours on this project, a lot 
 of which was spent learning completly new concepts, an of this example is Windows.h. I know the code may not be pretty, which is something
 I plan on fix up over time. This project though, has allow me to prove to myself that if I have an idea I can make it happen. 
